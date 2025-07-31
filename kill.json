@@ -1,5 +1,5 @@
 {
-  "kill": true,
-  "reason": "Maintenance Script, Silahkan Menunggu Next Update Ya",
-  "owner": "@xatanicvx"
+  "kill": false,
+  "Status": "Sedang maintenance, script dimatikan sementara.",
+  "Owner": "@xatanical"
 }
