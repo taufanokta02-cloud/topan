@@ -436,5 +436,13 @@
     "password": "tess1",
     "createdAt": "2025-08-01T09:44:09.975Z",
     "createdBy": "web"
+  },
+  "hyu": {
+    "username": "hyu",
+    "password": "hyu",
+    "role": "user",
+    "expiration": 1,
+    "createdAt": "2025-08-01T10:35:48.585Z",
+    "createdBy": "web"
   }
 }
