@@ -430,5 +430,11 @@
     "password": "XATABX7C4B",
     "createdAt": "2025-08-01T09:38:44.845Z",
     "createdBy": "hiyuux"
+  },
+  "tess": {
+    "username": "tess",
+    "password": "tess1",
+    "createdAt": "2025-08-01T09:44:09.975Z",
+    "createdBy": "web"
   }
 }
