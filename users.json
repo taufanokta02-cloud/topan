@@ -452,5 +452,13 @@
     "expiration": 60,
     "createdAt": "2025-08-01T10:40:55.483Z",
     "createdBy": "web"
+  },
+  "Hai": {
+    "username": "Hai",
+    "password": "pp",
+    "role": "user",
+    "expiration": 1,
+    "createdAt": "2025-08-01T10:41:56.168Z",
+    "createdBy": "web"
   }
 }
