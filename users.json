@@ -460,5 +460,13 @@
     "expiration": 1,
     "createdAt": "2025-08-01T10:41:56.168Z",
     "createdBy": "web"
+  },
+  "Ngapain": {
+    "username": "Ngapain",
+    "password": "p",
+    "role": "user",
+    "expiration": 1,
+    "createdAt": "2025-08-01T14:35:08.037Z",
+    "createdBy": "web"
   }
 }
