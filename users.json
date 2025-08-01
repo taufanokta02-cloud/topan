@@ -444,5 +444,13 @@
     "expiration": 1,
     "createdAt": "2025-08-01T10:35:48.585Z",
     "createdBy": "web"
+  },
+  "imxata": {
+    "username": "imxata",
+    "password": "haibang",
+    "role": "user",
+    "expiration": 60,
+    "createdAt": "2025-08-01T10:40:55.483Z",
+    "createdBy": "web"
   }
 }
