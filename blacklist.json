@@ -1,12 +1,3 @@
 {
-  "blacklist": [
-    {
-      "token": "abc123",
-      "reason": "Token curian"
-    },
-    {
-      "token": "def456",
-      "reason": "Spam bot"
-    }
-  ]
+  "blacklist": []
 }
