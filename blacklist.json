@@ -1,12 +1,1 @@
-{
-  "blacklist": [
-    {
-      "token": "123:abc",
-      "reason": "Bypass detected"
-    },
-    {
-      "token": "456:def",
-      "reason": "Token cloning"
-    }
-  ]
-}
+[]
